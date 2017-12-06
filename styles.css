@@ -1,0 +1,30 @@
+.cloud {
+}
+.boat {
+  animation: sway 3s infinite;
+}
+.wave {
+	animation: line-sway 3s infinite;
+}
+@keyframes sway {
+	0% {
+		transform: none;
+	}
+	50% {
+		transform: translate(-1px, -2px)
+	}
+	100% {
+		transform: none;
+	}
+}
+@keyframes line-sway {
+	0% {
+		transform: none;
+	}
+	50% {
+		transform: rotate(5deg);
+	}
+	100% {
+		transform: none;
+	}
+}
