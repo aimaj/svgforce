@@ -9,9 +9,9 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg8"
    version="1.1"
-   viewBox="0 0 135.23837 80.203278"
-   height="80.203278mm"
-   width="135.23837mm"
+   viewBox="0 0 143.23837 88.203278"
+   height="88.203278mm"
+   width="143.23837mm"
    sodipodi:docname="sailsforce.svg"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
   <sodipodi:namedview
@@ -27,13 +27,17 @@
      inkscape:window-height="1017"
      id="namedview19"
      showgrid="false"
-     inkscape:zoom="6.7277216"
-     inkscape:cx="136.82209"
-     inkscape:cy="163.80496"
+     inkscape:zoom="1.1893044"
+     inkscape:cx="57.394112"
+     inkscape:cy="158.3454"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     fit-margin-top="4"
+     fit-margin-left="4"
+     fit-margin-right="4"
+     fit-margin-bottom="4" />
   <defs
      id="defs2" />
   <metadata
@@ -44,13 +48,13 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      id="layer1"
-     transform="translate(-34.210503,-99.19812)">
+     transform="translate(-30.210503,-95.19812)">
     <ellipse
        class="cloud"
        style="fill:#003f59;fill-opacity:1;stroke-width:0.27568471"
@@ -92,7 +96,6 @@
        cx="75.37001"
        id="path7190" />
     <text
-       class="cloud"
        id="text7737"
        y="148.96603"
        x="49.714867"
@@ -103,7 +106,7 @@
          x="49.714867"
          id="tspan7735">S   ilsforce</tspan></text>
     <g
-		class="boat"
+       class="boat"
        id="g836">
       <path
          style="fill:#fbfbfb;fill-opacity:1;stroke:none;stroke-width:0.17408986px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"

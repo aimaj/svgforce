@@ -1,18 +1,22 @@
 .boat {
-    animation: sway 7s alternate infinite;
+    animation: sway 4s alternate infinite;
 }
 .wave {
     animation: line-sway 6s alternate infinite;
+}
+.cloud {
+	animation: swell 5s alternate infinite;
+	transition: all 500ms cubic-bezier(0.420, 0.000, 0.580, 1.000);
 }
 @keyframes sway {
     0% {
         transform: none;
     }
-    30% {
+    15% {
         transform: rotate(4deg);
         transform-origin: 10% 30%;
     }
-    60% {
+    55% {
         transform: rotate(-3deg);
         transform-origin: 70% 60%;
     }
@@ -25,7 +29,7 @@
         transform: none;
     }
     25% {
-        transform: rotate(9deg);
+        transform: rotate(4deg);
         transform-origin: 50% 50%;
     }
     75% {
@@ -35,4 +39,19 @@
         transform: rotate(-7deg);
         transform-origin: 50% 50%;
     }
+}
+
+@keyframes swell {
+	0% {
+		stroke:#003f59;
+		stroke-width:1;
+	}
+	50% {
+		stroke:#003f59;
+		stroke-width:3;
+	}
+	100% {
+		stroke:#003f59;
+		stroke-width:1;
+	}
 }
