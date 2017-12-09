@@ -1,25 +1,25 @@
 .cloud {
 }
 .boat {
-  animation: sway 3s alternate infinite;
+	animation: sway 7s alternate infinite;
 }
 .wave {
-	animation: line-sway 3s alternate infinite;
+	animation: line-sway 6s alternate infinite;
 }
 @keyframes sway {
 	0% {
-		transform: translateX(-30px);
+		transform: none;
 	}
 	30% {
-		transform: rotate(4deg), translateX(-30px);
-		transform-origin: 10% 60%;
+		transform: rotate(4deg);
+		transform-origin: 10% 30%;
 	}
 	60% {
-		transform: translateX(-30px);
+		transform: rotate(-3deg);
+		transform-origin: 70% 60%;		
 	}
 	100% {
-		transform: rotate(-5deg), translateX(-30px);
-		transform-origin: 10% 60%;
+		transform: none;
 	}
 }
 @keyframes line-sway {
@@ -27,14 +27,14 @@
 		transform: none;
 	}
 	25% {
-		transform: rotate(15deg);
+		transform: rotate(9deg);
 		transform-origin: 50% 50%;
 	}
 	75% {
 		transform: none;
 	}
 	100% {
-		transform: rotate(-15deg);
+		transform: rotate(-7deg);
 		transform-origin: 50% 50%;
 	}
 }
