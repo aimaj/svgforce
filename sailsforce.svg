@@ -27,13 +27,13 @@
      inkscape:window-height="1017"
      id="namedview19"
      showgrid="false"
-     inkscape:zoom="0.5946522"
-     inkscape:cx="613.41345"
-     inkscape:cy="239.40149"
+     inkscape:zoom="1.6819304"
+     inkscape:cx="250.59051"
+     inkscape:cy="178.9284"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg8" />
+     inkscape:current-layer="layer1" />
   <defs
      id="defs2" />
   <metadata
@@ -53,7 +53,7 @@
      transform="translate(-34.210503,-99.19812)">
     <ellipse
        class="cloud"
-       style="fill:#1eb1ee;fill-opacity:1;stroke-width:0.27568471"
+       style="fill:#003f59;fill-opacity:1;stroke-width:0.27568471"
        ry="40.101639"
        rx="39.823162"
        cy="139.29976"
@@ -61,7 +61,7 @@
        id="path7182" />
     <ellipse
        class="cloud"
-       style="fill:#1eb1ee;fill-opacity:1;stroke-width:0.26458332"
+       style="fill:#003f59;fill-opacity:1;stroke-width:0.26458332"
        ry="22.717911"
        rx="23.519718"
        cy="140.64732"
@@ -69,7 +69,7 @@
        id="path7184" />
     <ellipse
        class="cloud"
-       style="fill:#1eb1ee;fill-opacity:1;stroke-width:0.26458332"
+       style="fill:#003f59;fill-opacity:1;stroke-width:0.26458332"
        ry="22.183371"
        rx="19.777945"
        cy="130.49109"
@@ -77,7 +77,7 @@
        id="path7186" />
     <ellipse
        class="cloud"
-       style="fill:#1eb1ee;fill-opacity:1;stroke-width:0.26458332"
+       style="fill:#003f59;fill-opacity:1;stroke-width:0.26458332"
        ry="16.83798"
        rx="16.30344"
        cy="141.18184"
@@ -85,7 +85,7 @@
        id="path7188" />
     <ellipse
        class="cloud"
-       style="fill:#1eb1ee;fill-opacity:1;stroke-width:0.26458332"
+       style="fill:#003f59;fill-opacity:1;stroke-width:0.26458332"
        ry="19.777945"
        rx="21.916101"
        cy="154.27808"
@@ -94,25 +94,25 @@
     <text
        class="cloud"
        id="text7737"
-       y="148.43687"
-       x="52.88987"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.92131996px;line-height:1.25;font-family:'Berlin Sans FB';-inkscape-font-specification:'Berlin Sans FB, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.64803296"
+       y="148.96603"
+       x="49.714867"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.92140388px;line-height:1.25;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.64803296"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.92131996px;font-family:'Berlin Sans FB';-inkscape-font-specification:'Berlin Sans FB, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.64803296"
-         y="148.43687"
-         x="52.88987"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.92140388px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.64803296"
+         y="148.96603"
+         x="49.714867"
          id="tspan7735">S   ilsforce</tspan></text>
     <g
        class="boat"
-       transform="rotate(5.6045,44.485256,138.22875)"
+       transform="rotate(5.6045,26.152245,95.778894)"
        id="g7780">
       <path
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.17408986px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="fill:#fbfbfb;fill-opacity:1;stroke:none;stroke-width:0.17408986px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 74.143508,127.03179 c -5.646253,12.53056 -5.646253,12.53056 -5.646253,12.53056 l 5.633207,0.048 v 0 z"
          id="path7739"
          inkscape:connector-curvature="0" />
       <path
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.17408986px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="fill:#f4f4f4;fill-opacity:1;stroke:none;stroke-width:0.17408986px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 75.148328,127.03179 c 5.646254,12.53056 5.646254,12.53056 5.646254,12.53056 l -5.633208,0.048 v 0 z"
          id="path7739-3"
          inkscape:connector-curvature="0" />
@@ -132,8 +132,8 @@
     <path
        class="wave"
        id="path7782"
-       d="m 65.568134,151.13447 c 3.795133,-3.0361 5.138025,-0.75903 5.838665,0.0584 0.700639,0.81741 2.569012,1.22612 3.853518,0.0584 1.284507,-1.16773 2.802559,-1.34289 3.85352,0.35032"
-       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.91600001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 63.980633,147.95945 c 3.795133,-3.0361 5.138025,-0.75903 5.838665,0.0584 0.700639,0.81741 2.569012,1.22612 3.853518,0.0584 1.284507,-1.16773 2.802559,-1.34289 3.85352,0.35032"
+       style="fill:none;fill-opacity:1;stroke:#0099a6;stroke-width:0.91600001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:connector-curvature="0" />
   </g>
 </svg>
